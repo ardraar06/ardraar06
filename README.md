@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajA3NXY5d2toaTZnZHFjNDVnNXJubmR2aG05emtrYzJ1aGx0ejRjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-# 💫 About Me:
+# 💫About Me:
 Hi! Welcome to my GitHub profile 👋  
 I'm **Ardra**, a CSE undergrad at **NSS College of Engineering**, passionate about tech, coding, and creative problem-solving.  
 I thrive on building innovative designs, websites, apps, and turning ideas into reality through collaboration and learning.  
