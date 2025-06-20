@@ -8,8 +8,7 @@
 
 # 💫About Me:
 Welcome to my GitHub profile 👋  
-I'm **Ardra**, a CSE undergrad at **NSSCE**, passionate about tech, coding, and creative problem-solving.  
-I thrive on building innovative designs, websites, apps, and turning ideas into reality through collaboration and learning.  
+I'm **Ardra**, a CSE undergrad at **NSSCE**, passionate about tech, coding, and creative problem-solving.I thrive on building innovative designs, websites, apps, and turning ideas into reality through collaboration and learning.  
 
 Feel free to contact me for **collaborations, tech talks, or innovative teamwork** — always excited to connect and build! 🤝🚀
 
